@@ -2,7 +2,7 @@ language: node_js
 
 install:
   - npm install
-  - npm install dora@0.x
+  - npm install dora@0.3.x
 
 node_js:
   - "4"
