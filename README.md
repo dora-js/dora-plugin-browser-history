@@ -1,6 +1,6 @@
 # dora-plugin-browser-history
 
-dora plugin for [react-router](https://github.com/reactjs/react-router) browser history([https://github.com/reactjs/react-router/blob/master/docs/guides/Histories.md#browserhistory](https://github.com/reactjs/react-router/blob/master/docs/guides/Histories.md#browserhistory))
+dora plugin for [react-router](https://github.com/reactjs/react-router) browser history([#browserhistory](https://github.com/reactjs/react-router/blob/master/docs/guides/Histories.md#browserhistory))
 
 [![NPM version](https://img.shields.io/npm/v/dora-plugin-browser-history.svg?style=flat)](https://npmjs.org/package/dora-plugin-browser-history)
 [![Build Status](https://img.shields.io/travis/silentcloud/dora-plugin-browser-history.svg?style=flat)](https://travis-ci.org/silentcloud/dora-plugin-browser-history)
