@@ -12,6 +12,12 @@ dora plugin for [react-router](https://github.com/reactjs/react-router) browser 
 
 - support react-router `browserHistory`
 
+## Install
+
+```bash
+$ npm install dora-plugin-browser-history --save-dev
+```
+
 ## Usage
 
 ```javascript
