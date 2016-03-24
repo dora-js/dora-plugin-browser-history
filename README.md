@@ -41,3 +41,11 @@ ReactDom.render((
 ```bash
 $ dora --plugins browser-history
 ```
+
+## Query
+
+Path of the index file
+
+```bash
+$ dora --plugins browser-history?index=/example/entry.html
+```
