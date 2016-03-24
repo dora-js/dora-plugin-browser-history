@@ -3,9 +3,9 @@
   "version": "0.1.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/silentcloud/dora-plugin-browser-history"
+    "url": "https://github.com/dora-js/dora-plugin-browser-history"
   },
-  "homepage": "https://github.com/silentcloud/dora-plugin-browser-history",
+  "homepage": "https://github.com/dora-js/dora-plugin-browser-history",
   "author": "qiang.mou <rjmuqiang@gmail.com>",
   "license": "MIT",
   "main": "./lib",
